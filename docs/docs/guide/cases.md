@@ -13,6 +13,7 @@
 
 ### 博客
 
+- [祈星海](https://www.zzzzhi.com)
 - [百合花船·教程](https://jc.yuriboat.cn)
 - [Misaka の 💭](https://blog.misaka.ink/)
 - [备胎书屋](https://beitai.cc)
